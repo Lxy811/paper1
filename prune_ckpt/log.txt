@@ -1,0 +1,120 @@
+INFO:root:Ep: 0, step: 0, loss: 0.71947
+INFO:root:Ep: 0, step: 30, loss: 0.12036
+INFO:root:Ep: 0, step: 60, loss: 0.10146
+INFO:root:Ep: 0, step: 90, loss: 0.09231
+INFO:root:Ep: 0, step: 120, loss: 0.08416
+INFO:root:ep: 0, recall: 0.080, precision: 0.053, auc: 0.879
+INFO:root:Ep: 1, step: 0, loss: 0.08074
+INFO:root:Ep: 1, step: 30, loss: 0.05828
+INFO:root:Ep: 1, step: 60, loss: 0.03869
+INFO:root:Ep: 1, step: 90, loss: 0.04325
+INFO:root:Ep: 1, step: 120, loss: 0.04136
+INFO:root:ep: 1, recall: 0.369, precision: 0.055, auc: 0.916
+INFO:root:Ep: 2, step: 0, loss: 0.03217
+INFO:root:Ep: 2, step: 30, loss: 0.03191
+INFO:root:Ep: 2, step: 60, loss: 0.02129
+INFO:root:Ep: 2, step: 90, loss: 0.02571
+INFO:root:Ep: 2, step: 120, loss: 0.02113
+INFO:root:ep: 2, recall: 0.571, precision: 0.048, auc: 0.922
+INFO:root:Ep: 3, step: 0, loss: 0.03384
+INFO:root:Ep: 3, step: 30, loss: 0.02925
+INFO:root:Ep: 3, step: 60, loss: 0.03180
+INFO:root:Ep: 3, step: 90, loss: 0.02384
+INFO:root:Ep: 3, step: 120, loss: 0.02406
+INFO:root:ep: 3, recall: 0.450, precision: 0.054, auc: 0.926
+INFO:root:Ep: 4, step: 0, loss: 0.02325
+INFO:root:Ep: 4, step: 30, loss: 0.02942
+INFO:root:Ep: 4, step: 60, loss: 0.01931
+INFO:root:Ep: 4, step: 90, loss: 0.01427
+INFO:root:Ep: 4, step: 120, loss: 0.01706
+INFO:root:ep: 4, recall: 0.593, precision: 0.050, auc: 0.927
+INFO:root:Ep: 5, step: 0, loss: 0.01322
+INFO:root:Ep: 5, step: 30, loss: 0.03016
+INFO:root:Ep: 5, step: 60, loss: 0.01736
+INFO:root:Ep: 5, step: 90, loss: 0.01387
+INFO:root:Ep: 5, step: 120, loss: 0.03226
+INFO:root:ep: 5, recall: 0.398, precision: 0.057, auc: 0.928
+INFO:root:Ep: 6, step: 0, loss: 0.02388
+INFO:root:Ep: 6, step: 30, loss: 0.01404
+INFO:root:Ep: 6, step: 60, loss: 0.01049
+INFO:root:Ep: 6, step: 90, loss: 0.02017
+INFO:root:Ep: 6, step: 120, loss: 0.01952
+INFO:root:ep: 6, recall: 0.565, precision: 0.052, auc: 0.929
+INFO:root:Ep: 7, step: 0, loss: 0.01505
+INFO:root:Ep: 7, step: 30, loss: 0.02075
+INFO:root:Ep: 7, step: 60, loss: 0.00763
+INFO:root:Ep: 7, step: 90, loss: 0.01135
+INFO:root:Ep: 7, step: 120, loss: 0.02419
+INFO:root:ep: 7, recall: 0.689, precision: 0.045, auc: 0.930
+INFO:root:Ep: 8, step: 0, loss: 0.00734
+INFO:root:Ep: 8, step: 30, loss: 0.01069
+INFO:root:Ep: 8, step: 60, loss: 0.00758
+INFO:root:Ep: 8, step: 90, loss: 0.01274
+INFO:root:Ep: 8, step: 120, loss: 0.01896
+INFO:root:ep: 8, recall: 0.565, precision: 0.052, auc: 0.930
+INFO:root:Ep: 9, step: 0, loss: 0.01054
+INFO:root:Ep: 9, step: 30, loss: 0.00773
+INFO:root:Ep: 9, step: 60, loss: 0.03910
+INFO:root:Ep: 9, step: 90, loss: 0.01787
+INFO:root:Ep: 9, step: 120, loss: 0.01581
+INFO:root:ep: 9, recall: 0.728, precision: 0.043, auc: 0.931
+INFO:root:Ep: 10, step: 0, loss: 0.00700
+INFO:root:Ep: 10, step: 30, loss: 0.01340
+INFO:root:Ep: 10, step: 60, loss: 0.00969
+INFO:root:Ep: 10, step: 90, loss: 0.00957
+INFO:root:Ep: 10, step: 120, loss: 0.00922
+INFO:root:ep: 10, recall: 0.713, precision: 0.043, auc: 0.930
+INFO:root:Ep: 11, step: 0, loss: 0.00498
+INFO:root:Ep: 11, step: 30, loss: 0.00982
+INFO:root:Ep: 11, step: 60, loss: 0.00543
+INFO:root:Ep: 11, step: 90, loss: 0.00338
+INFO:root:Ep: 11, step: 120, loss: 0.00744
+INFO:root:ep: 11, recall: 0.699, precision: 0.045, auc: 0.931
+INFO:root:Ep: 12, step: 0, loss: 0.00761
+INFO:root:Ep: 12, step: 30, loss: 0.00501
+INFO:root:Ep: 12, step: 60, loss: 0.00963
+INFO:root:Ep: 12, step: 90, loss: 0.00227
+INFO:root:Ep: 12, step: 120, loss: 0.00210
+INFO:root:ep: 12, recall: 0.647, precision: 0.048, auc: 0.931
+INFO:root:Ep: 13, step: 0, loss: 0.00824
+INFO:root:Ep: 13, step: 30, loss: 0.00549
+INFO:root:Ep: 13, step: 60, loss: 0.00301
+INFO:root:Ep: 13, step: 90, loss: 0.01170
+INFO:root:Ep: 13, step: 120, loss: 0.02274
+INFO:root:ep: 13, recall: 0.819, precision: 0.036, auc: 0.931
+INFO:root:Ep: 14, step: 0, loss: 0.00276
+INFO:root:Ep: 14, step: 30, loss: 0.00383
+INFO:root:Ep: 14, step: 60, loss: 0.00332
+INFO:root:Ep: 14, step: 90, loss: 0.00142
+INFO:root:Ep: 14, step: 120, loss: 0.00806
+INFO:root:ep: 14, recall: 0.835, precision: 0.034, auc: 0.931
+INFO:root:Ep: 15, step: 0, loss: 0.00145
+INFO:root:Ep: 15, step: 30, loss: 0.00265
+INFO:root:Ep: 15, step: 60, loss: 0.00752
+INFO:root:Ep: 15, step: 90, loss: 0.00598
+INFO:root:Ep: 15, step: 120, loss: 0.00092
+INFO:root:ep: 15, recall: 0.612, precision: 0.050, auc: 0.930
+INFO:root:Ep: 16, step: 0, loss: 0.00870
+INFO:root:Ep: 16, step: 30, loss: 0.00566
+INFO:root:Ep: 16, step: 60, loss: 0.00492
+INFO:root:Ep: 16, step: 90, loss: 0.00441
+INFO:root:Ep: 16, step: 120, loss: 0.00383
+INFO:root:ep: 16, recall: 0.797, precision: 0.037, auc: 0.931
+INFO:root:Ep: 17, step: 0, loss: 0.00246
+INFO:root:Ep: 17, step: 30, loss: 0.00374
+INFO:root:Ep: 17, step: 60, loss: 0.00632
+INFO:root:Ep: 17, step: 90, loss: 0.00293
+INFO:root:Ep: 17, step: 120, loss: 0.00160
+INFO:root:ep: 17, recall: 0.675, precision: 0.046, auc: 0.930
+INFO:root:Ep: 18, step: 0, loss: 0.00487
+INFO:root:Ep: 18, step: 30, loss: 0.00235
+INFO:root:Ep: 18, step: 60, loss: 0.00378
+INFO:root:Ep: 18, step: 90, loss: 0.00571
+INFO:root:Ep: 18, step: 120, loss: 0.00084
+INFO:root:ep: 18, recall: 0.651, precision: 0.048, auc: 0.930
+INFO:root:Ep: 19, step: 0, loss: 0.00494
+INFO:root:Ep: 19, step: 30, loss: 0.00368
+INFO:root:Ep: 19, step: 60, loss: 0.00127
+INFO:root:Ep: 19, step: 90, loss: 0.00928
+INFO:root:Ep: 19, step: 120, loss: 0.00972
+INFO:root:ep: 19, recall: 0.725, precision: 0.043, auc: 0.931
