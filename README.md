@@ -118,17 +118,6 @@ CUDA_VISIBLE_DEVICES=0 python -m torch.distributed.launch --master_port 10006 --
         OUTPUT_DIR ./checkpoints/TCAR-predcls
 ```
 
-## Citation
-
-```bash
-@article{li2023zero,
-  title={Zero-Shot Scene Graph Generation via Triplet Calibration and Reduction},
-  author={Li, Jiankai and Wang, Yunhong and Li, Weixin},
-  journal={ACM Transactions on Multimedia Computing, Communications and Applications},
-  year={2023},
-  publisher={ACM New York, NY}
-}
-```
 
 ## Acknowledgment
 
