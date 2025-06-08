@@ -1,4 +1,4 @@
-# Zero-Shot Scene Graph Generation via Triplet Calibration and Reduction in Pytorch
+# Zero-Shot Scene Graph Generation
 
 [![LICENSE](https://img.shields.io/badge/license-MIT-green)](https://github.com/dongxingning/SHA_GCL_for_SGG/blob/master/LICENSE)
 [![Python](https://img.shields.io/badge/python-3.7-blue.svg)](https://www.python.org/)
